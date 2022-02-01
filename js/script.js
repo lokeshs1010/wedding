@@ -17,7 +17,7 @@ $(document).ready(function () {
   document.getElementById("first_name").innerHTML =
     "<h1>Lokesh </h1><p>(Son of BrahmaNand Saini & Meena Saini)</p>";
   document.getElementById("invitation_card").innerHTML =
-    '<a href="https://raw.githubusercontent.com/kunalahirrao/weddintInvitation/main/invitation/myInvitation.pdf" download="Invitation | 28 Dec | Hope to see you there!"><div class="venue">DOWNLOAD INVITATION CARD</div>';
+    '<a href="https://raw.githubusercontent.com/lokeshs1010/wedding/main/invitation/My_Invitation.jpeg" target="_blank" download="Invitation | 28 Dec | Hope to see you there!"><div class="venue">DOWNLOAD INVITATION CARD</div>';
   document.getElementById("mobile_number").innerHTML =
     "<a href=”tel:7876877477>+91 7876877477</a>";
 });
